@@ -1,12 +1,4 @@
-#!/usr/bin/env python3'opEn' : 'mr'
-######################################################################
-#
-# Project 1
-# Reverse Engineering and Vulnerability Analysis - 695.744
-# Mike Dobroski 22E6F2
-# 2/9/2024
-#
-######################################################################
+#!/usr/bin/env python3
 import argparse
 
 # key is the opcode
